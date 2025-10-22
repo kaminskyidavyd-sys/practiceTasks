@@ -7,6 +7,11 @@ public class Task {
         // ----------------------------------------------
 
         //Write your solution here
+    int digits1 = number / 100;
+    int digits2 = (number /10) % 10;
+    int digits3 = number % 10;
+    int sumDigit = digits1 + digits2 + digits3;
+    System.out.println("Sum of the digits:" + sumDigit);
 
     }
 }

@@ -10,6 +10,9 @@ public class Task {
 
 
         //Write your solution here
-
+    int area = width * height;
+    System.out.println("lest say width is " + width + " and height is " + height);
+    System.out.println("output will be:");
+    System.out.println("Area of rectangle=" + area);
     }
 }

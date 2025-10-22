@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Tests" tests="5" skipped="0" failures="0" errors="0" timestamp="2025-10-21T19:33:27" hostname="DESKTOP-QJJ8IGM" time="0.032">
+  <properties/>
+  <testcase name="[1] [256], [13]" classname="Tests" time="0.023"/>
+  <testcase name="[2] [789], [24]" classname="Tests" time="0.001"/>
+  <testcase name="[3] [100], [1]" classname="Tests" time="0.001"/>
+  <testcase name="[4] [999], [27]" classname="Tests" time="0.001"/>
+  <testcase name="[5] [321], [6]" classname="Tests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
