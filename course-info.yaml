@@ -31,6 +31,7 @@ additional_files:
   - name: settings.gradle.kts
   - name: Cydeo_Java_practice_tasks.zip
     is_binary: true
+  - name: gradle/wrapper/gradle-wrapper.properties
 mode: Study
 feedback_link: https://plugins.jetbrains.com/plugin/26571-java-practice-tasks-for-beginners/reviews
 yaml_version: 5

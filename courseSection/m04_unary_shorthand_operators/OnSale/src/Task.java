@@ -9,6 +9,9 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
-
+        double discountAmount = currentPrice/100*discountPercentage;
+        currentPrice -= discountAmount;
+        System.out.println(currentPrice);
+        System.out.println(discountAmount);
     }
 }

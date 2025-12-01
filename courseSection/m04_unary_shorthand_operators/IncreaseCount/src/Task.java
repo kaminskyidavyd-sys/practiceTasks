@@ -1,11 +1,16 @@
+import org.jetbrains.annotations.NotNull;
+
 public class Task {
-    public static void main(String[] args) {
+    public static void main(@NotNull String[] args) {
 
         int count = 5;
         //Do not change below line:needed for testing---
         count = args.length > 0 ? Integer.parseInt(args[0]) : count;
 
         // Write your solution here
-
+        count = count + 1;
+        count++ ;
+        count += 1;
+        System.out.println(count);
     }
 }
