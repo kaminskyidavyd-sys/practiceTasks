@@ -10,6 +10,10 @@ public class Task {
         //--------------------------------
 
         //Write your solution here
+                boolean hasBonus;
 
-    }
-}
+                hasBonus = (yearsWithCompany >= 5) && (department == 10 || department == 15);
+
+                System.out.println("hasBonus = " + hasBonus);
+            }
+        }
